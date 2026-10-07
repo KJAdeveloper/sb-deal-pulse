@@ -1,0 +1,103 @@
+{
+  "date": "2026-10-07",
+  "title": "SB Deal Pulse, Oct 7 2026: Alamar 11-unit, Voluntario lease-up, Ellwood 7-unit",
+  "summary": "Three South Coast MF: 11-unit W Alamar ~$364k/door; Voluntario 4-plex cut to $2.7M with 3 vacant; Ellwood Beach 7-unit at 5.2% cap. Junipero Pending. Bath price conflict ($2.099M vs $2.195M) — flag unconfirmed.",
+  "listings": [
+    {
+      "address": "228 W Alamar Ave",
+      "city": "Santa Barbara",
+      "zip": "93105",
+      "price": 4000000,
+      "units": 11,
+      "unit_mix": "3x2BR, 4x1BR, 4 studios",
+      "sqft": 6500,
+      "lot_acres": 0.29,
+      "year_built": 1964,
+      "price_per_unit": 363636,
+      "status": "Active",
+      "listed": "2026-07-17",
+      "thesis": "Low $/door for core SB; rent roll not public",
+      "source_url": "https://www.remax.com/ca/santa-barbara/home-details/228-w-alamar-ave-santa-barbara-ca-93105/8069604756785442720/M00000096/26-2367",
+      "lat": 34.434867,
+      "lng": -119.726294,
+      "rank": 1
+    },
+    {
+      "address": "102 S Voluntario St",
+      "city": "Santa Barbara",
+      "zip": "93103",
+      "price": 2700000,
+      "prior_price": 2850000,
+      "price_cut_date": "2026-07-29",
+      "units": 4,
+      "vacancy": "3 of 4 vacant",
+      "price_per_unit": 675000,
+      "status": "Active",
+      "thesis": "Lease-up at market",
+      "source_url": "https://www.coldwellbankerhomes.com/ca/santa-barbara/102-s-voluntario-st/pid_72558133/",
+      "lat": 34.422461,
+      "lng": -119.67546,
+      "rank": 2
+    },
+    {
+      "address": "431 Ellwood Beach Dr",
+      "city": "Goleta",
+      "zip": "93117",
+      "price": 2900000,
+      "units": 7,
+      "unit_mix": "7x2BR/2BA",
+      "noi_est": 150800,
+      "cap": 0.052,
+      "price_per_unit": 414286,
+      "status": "Active",
+      "listed": "~2026-09-16",
+      "thesis": "In-place cash flow, coastal Ellwood",
+      "source_url": "https://www.coldwellbanker.com/ca/goleta/431-ellwood-beach-dr/lid-P00800000HDgibVbHeMbM7vERBRPI52KVhZECrpX",
+      "lat": 34.4239974,
+      "lng": -119.8858607,
+      "rank": 3
+    },
+    {
+      "address": "1936 State St",
+      "city": "Santa Barbara",
+      "zip": "93101",
+      "price": 4950000,
+      "asset": "NNN retail",
+      "noi_est": 223245,
+      "cap": 0.0451,
+      "status": "Active",
+      "rank": "watch",
+      "source_url": "https://www.linkedin.com/feed/update/urn:li:activity:7462916692327837697",
+      "lat": 34.430822,
+      "lng": -119.714156
+    },
+    {
+      "address": "516 W Junipero St",
+      "city": "Santa Barbara",
+      "zip": "93105",
+      "price": 2150000,
+      "units": 6,
+      "status": "Pending",
+      "note": "Rents ~59% of market",
+      "rank": "status-change",
+      "source_url": "https://www.compass.com/homedetails/516-W-Junipero-St-Santa-Barbara-CA-93105/LXEAU_pid/"
+    },
+    {
+      "address": "1403 Bath St",
+      "city": "Santa Barbara",
+      "price": 2195000,
+      "price_note": "CB $2.195M; Oct 6 feed $2.099M — FLAG UNCONFIRMED",
+      "gsi": 127020,
+      "grm_est": 17.3,
+      "status": "Active",
+      "rank": "update",
+      "source_url": "https://www.coldwellbanker.com/ca/santa-barbara/1403-bath-st-apt-a/lid-P00800000H8MNhzKqGvAOHsdThkp8UeMHitEUEl9"
+    }
+  ],
+  "caveats": [
+    "est. NOI = price × stated cap",
+    "Alamar/Voluntario rents not public",
+    "Lat/lng from OSM",
+    "Flag Bath price unconfirmed"
+  ]
+}
